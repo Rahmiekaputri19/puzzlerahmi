@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">gamepuzzleRahmi</string>
+    <string name="click_me">A</string>
+    <string name="click_me1">B</string>
+    <string name="click_me3">C</string>
+    <string name="click_me4">D</string>
+    <string name="click_me5">E</string>
+    <string name="click_me6">F</string>
+    <string name="click_me7">G</string>
+    <string name="click_8">H</string>
+    <string name="click_me9">I</string>
+    <string name="click_me10">J</string>
+    <string name="click_me12">K</string>
+    <string name="click_me13">L</string>
+    <string name="click_me14">M</string>
+    <string name="click_me15">N</string>
+    <string name="click_me16">O</string>
+    <string name="click_me17" />
+    <string name="Text">RAHMI</string>
+</resources>
